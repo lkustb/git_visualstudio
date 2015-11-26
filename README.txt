@@ -1,3 +1,3 @@
 Hello this is the study for Git.
 
-To add an license!!
+To add an license!!  Now with MIT license.
